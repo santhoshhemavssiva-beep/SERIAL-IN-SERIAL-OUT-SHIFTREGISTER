@@ -56,8 +56,10 @@ Developed by:santhosh sivakumar RegisterNumber:25013000
 */
 
 **RTL LOGIC FOR SISO Shift Register**
+![WhatsApp Image 2025-10-24 at 00 09 09_0758e610](https://github.com/user-attachments/assets/d079c287-6938-477f-912f-c0dbbbade2ff)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+![WhatsApp Image 2025-10-24 at 00 09 47_3d196e94](https://github.com/user-attachments/assets/fcbe2908-71f7-4146-b960-2a92e0e0eebd)
 
 **RESULTS**
 Thus the SISO are designed and the truth tables is verified using quartus software
